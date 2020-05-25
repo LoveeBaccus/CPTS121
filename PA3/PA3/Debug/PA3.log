@@ -1,0 +1,7 @@
+﻿  PA3main.c
+c:\users\loven\source\repos\pa3\pa3\pa3main.c(40): warning C4013: 'readInt' undefined; assuming extern returning int
+c:\users\loven\source\repos\pa3\pa3\pa3main.c(75): warning C4013: 'print_double' undefined; assuming extern returning int
+  PA3.c
+  Generating Code...
+c:\users\loven\source\repos\pa3\pa3\pa3.c(122): warning C4716: 'find_min': must return a value
+  PA3.vcxproj -> C:\Users\loven\source\repos\PA3\Debug\PA3.exe

@@ -1,0 +1,9 @@
+﻿  PA4.c
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(24): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(61): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(175): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa4\pa4\pa4.c(184): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PA4.vcxproj -> C:\Users\loven\OneDrive\Documents\Archive\Psych 100\WSU\CS 121\PA4\Debug\PA4.exe

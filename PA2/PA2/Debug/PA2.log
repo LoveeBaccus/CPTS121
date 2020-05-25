@@ -1,0 +1,4 @@
+﻿  PA2main.c
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa2\pa2\pa2.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\loven\onedrive\documents\archive\psych 100\wsu\cs 121\pa2\pa2\pa2.h(3): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  PA2.vcxproj -> C:\Users\loven\OneDrive\Documents\Archive\Psych 100\WSU\CS 121\PA2\Debug\PA2.exe
